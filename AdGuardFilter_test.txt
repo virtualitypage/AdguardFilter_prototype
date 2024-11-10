@@ -1,1 +1,2 @@
-@@/v*.tiktokcdn.com/
+@@/vd*.tiktokcdn.com/
+/vs[1-9]{2}.tiktokcdn.com/
