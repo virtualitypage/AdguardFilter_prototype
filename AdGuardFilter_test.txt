@@ -1,1 +1,1 @@
-0.0.0.0 gecko*-normal-alisg.tiktokv.com
+@@/v*.tiktokcdn.com/
