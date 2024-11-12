@@ -1,6 +1,1 @@
-||*-acdn-settings.appsflyersdk.com
-||*-acdn-settings.appsflyersdk.com.lan
-||*-ainapps.appsflyersdk.com
-||*-alaunches.appsflyersdk.com
-||*-aattr.appsflyersdk.com
-||*-aconversions.appsflyersdk.com
+/[a-z]-aadq.mediation.unity3d.com/
