@@ -1,1 +1,2 @@
-/[a-z]-aadq.mediation.unity3d.com/
+||*.cloud.unity3d.com
+||*.uca.cloud.unity3d.com
