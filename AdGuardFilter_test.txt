@@ -1,6 +1,6 @@
-||*-cdn-settings.appsflyersdk.com
-||*-cdn-settings.appsflyersdk.com.lan
-||*-inapps.appsflyersdk.com
-||*-launches.appsflyersdk.com
-||*-attr.appsflyersdk.com
-||*-conversions.appsflyersdk.com
+||*-acdn-settings.appsflyersdk.com
+||*-acdn-settings.appsflyersdk.com.lan
+||*-ainapps.appsflyersdk.com
+||*-alaunches.appsflyersdk.com
+||*-aattr.appsflyersdk.com
+||*-aconversions.appsflyersdk.com
