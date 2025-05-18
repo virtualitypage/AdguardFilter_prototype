@@ -1,57 +1,8 @@
-||*.cloud.unity3d.com
-||*.uca.cloud.unity3d.com
-||*-uca.cloud.unity3d.com
-0.0.0.0 *.cloud.unity3d.com
-0.0.0.0 *.uca.cloud.unity3d.com
-0.0.0.0 *-uca.cloud.unity3d.com
-
-
-# [AppsFlyer (mobile analytics and spyware)]
-0.0.0.0 *adrevenue.appsflyersdk.com
-0.0.0.0 *adrevenue.appsflyersdk.com.lan
-0.0.0.0 *attr.appsflyersdk.com
-0.0.0.0 *attr.appsflyersdk.com
-0.0.0.0 *cdn-settings.appsflyersdk.com
-0.0.0.0 *cdn-settings.appsflyersdk.com.lan
-0.0.0.0 *conversions.appsflyersdk.com
-0.0.0.0 *conversions.appsflyersdk.com
-0.0.0.0 *dlsdk.appsflyersdk.com
-0.0.0.0 *gcdsdk.appsflyersdk.com
-0.0.0.0 *gcdsdk.appsflyersdk.com
-0.0.0.0 *-inapps.appsflyersdk.com
-0.0.0.0 *-inapps.appsflyersdk.com
-0.0.0.0 *-inapps.appsflyersdk.com.lan
-0.0.0.0 *-launches.appsflyersdk.com
-0.0.0.0 *-launches.appsflyersdk.com
-0.0.0.0 *-launches.appsflyersdk.com.lan
-0.0.0.0 *-onelink.appsflyersdk.com
-0.0.0.0 *-onelink.appsflyersdk.com
-0.0.0.0 *-pia.appsflyersdk.com
-0.0.0.0 *-pia.appsflyersdk.com
-0.0.0.0 *-register.appsflyersdk.com
-0.0.0.0 *-settings.appsflyersdk.com
-0.0.0.0 adrevenue.appsflyersdk.com
-0.0.0.0 adrevenue.appsflyersdk.com.lan
-0.0.0.0 app.appsflyer.com
-0.0.0.0 aps-webhandler.appsflyer.com
-0.0.0.0 attr.appsflyer.com
-0.0.0.0 cdn-settings.appsflyersdk.com
-0.0.0.0 cdn-settings.appsflyersdk.com.lan
-0.0.0.0 cdn.appsflyer.com
-0.0.0.0 conversions.appsflyersdk.com
-0.0.0.0 engagements.appsflyer.com
-0.0.0.0 engagements.appsflyer.com.lan
-0.0.0.0 gcdsdk.appsflyer.com
-0.0.0.0 gcdsdk.appsflyersdk.com
-0.0.0.0 impression.appsflyer.com
-0.0.0.0 impression.appsflyer.com.lan
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 inapps.appsflyer.com.lan
-0.0.0.0 inapps.appsflyersdk.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 launches.appsflyersdk.com
-0.0.0.0 launches.appsflyersdk.com.lan
-0.0.0.0 privacy-sandbox.appsflyersdk.com
-0.0.0.0 viap.appsflyersdk.com
-0.0.0.0 wa.appsflyer.com
-0.0.0.0 websdk.appsflyer.com
+||*-adrevenue.appsflyersdk.com
+||*-adrevenue.appsflyersdk.com.lan
+||*-attr.appsflyersdk.com
+||*-cdn-settings.appsflyersdk.com
+||*-cdn-settings.appsflyersdk.com.lan
+||*-conversions.appsflyersdk.com
+||*-dlsdk.appsflyersdk.com
+||*-gcdsdk.appsflyersdk.com
