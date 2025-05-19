@@ -1,1 +1,1 @@
-/a[1-9].casalemedia.com/
+/b[1-9].casalemedia.com/
