@@ -1,8 +1,1 @@
-||*-adrevenue.appsflyersdk.com
-||*-adrevenue.appsflyersdk.com.lan
-||*-attr.appsflyersdk.com
-||*-cdn-settings.appsflyersdk.com
-||*-cdn-settings.appsflyersdk.com.lan
-||*-conversions.appsflyersdk.com
-||*-dlsdk.appsflyersdk.com
-||*-gcdsdk.appsflyersdk.com
+/a[1-9].casalemedia.com/
