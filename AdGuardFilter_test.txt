@@ -1,3 +1,9 @@
-/b[1-9][1-9][1-9][1-9].casalemedia.com/
-/[a-z][a-z][a-z][a-z][a-z][a-z]-adrevenue.appsflyersdk.com/
-/[a-z][a-z][a-z][a-z][a-z][a-z]-adrevenue.appsflyersdk.com.lan/
+@@/instagram.[a-z]*[0-9]-[0-9].fna.fbcdn.net/
+@@/sonar-[a-z]*[0-9]-[0-9].xx.fbcdn.net
+@@/sonar-[a-z]*[0-9]-[0-9].xx.fbcdn.net.lan/
+@@/sonar6-[a-z]*[0-9]-[0-9].xx.fbcdn.net/
+@@/sonar6-[a-z]*[0-9]-[0-9].xx.fbcdn.net.lan/
+@@/scontent-[a-z][0-9]-[0-9].xx.fbcdn.net/
+@@||scontent.xx.fbcdn.net
+@@/video-[a-z]*[0-9]-[0-9].xx.fbcdn.net/
+@@||z-m-static.xx.fbcdn.net
